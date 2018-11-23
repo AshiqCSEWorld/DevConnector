@@ -1,0 +1,1 @@
+exports.profilePage = ((req,res) => res.json({msg: 'Profile works'}))

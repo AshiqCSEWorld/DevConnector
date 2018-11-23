@@ -1,0 +1,1 @@
+exports.postPage = ((req, res) => { res.json({ msg: 'Post works' }) });
